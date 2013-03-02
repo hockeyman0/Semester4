@@ -1,0 +1,90 @@
+Simulating :AMD Opteron: with cache size:1: and issue width:1: results in CPI:4.738: and total execution time:17055
+Simulating :Intel Core i7: with cache size:1: and issue width:1: results in CPI:4.138: and total execution time:12412
+Simulating :AMD Opteron: with cache size:1: and issue width:2: results in CPI:4.675: and total execution time:16830
+Simulating :Intel Core i7: with cache size:1: and issue width:2: results in CPI:4.075: and total execution time:12225
+Simulating :AMD Opteron: with cache size:1: and issue width:4: results in CPI:4.550: and total execution time:16380
+Simulating :Intel Core i7: with cache size:1: and issue width:4: results in CPI:3.950: and total execution time:11850
+Simulating :AMD Opteron: with cache size:1: and issue width:8: results in CPI:4.300: and total execution time:15480
+Simulating :Intel Core i7: with cache size:1: and issue width:8: results in CPI:3.700: and total execution time:11100
+Simulating :AMD Opteron: with cache size:1: and issue width:16: results in CPI:3.800: and total execution time:13680
+Simulating :Intel Core i7: with cache size:1: and issue width:16: results in CPI:3.200: and total execution time:9600
+Simulating :AMD Opteron: with cache size:1: and issue width:1: results in CPI:4.738: and total execution time:17055
+Simulating :Intel Core i7: with cache size:1: and issue width:1: results in CPI:4.138: and total execution time:12412
+Simulating :AMD Opteron: with cache size:1: and issue width:2: results in CPI:4.675: and total execution time:16830
+Simulating :Intel Core i7: with cache size:1: and issue width:2: results in CPI:4.075: and total execution time:12225
+Simulating :AMD Opteron: with cache size:1: and issue width:4: results in CPI:4.550: and total execution time:16380
+Simulating :Intel Core i7: with cache size:1: and issue width:4: results in CPI:3.950: and total execution time:11850
+Simulating :AMD Opteron: with cache size:1: and issue width:8: results in CPI:4.300: and total execution time:15480
+Simulating :Intel Core i7: with cache size:1: and issue width:8: results in CPI:3.700: and total execution time:11100
+Simulating :AMD Opteron: with cache size:1: and issue width:16: results in CPI:3.800: and total execution time:13680
+Simulating :Intel Core i7: with cache size:1: and issue width:16: results in CPI:3.200: and total execution time:9600
+Simulating :AMD Opteron: with cache size:1: and issue width:1: results in CPI:4.738: and total execution time:17055
+Simulating :Intel Core i7: with cache size:1: and issue width:1: results in CPI:4.138: and total execution time:12412
+Simulating :AMD Opteron: with cache size:1: and issue width:2: results in CPI:4.675: and total execution time:16830
+Simulating :Intel Core i7: with cache size:1: and issue width:2: results in CPI:4.075: and total execution time:12225
+Simulating :AMD Opteron: with cache size:1: and issue width:4: results in CPI:4.550: and total execution time:16380
+Simulating :Intel Core i7: with cache size:1: and issue width:4: results in CPI:3.950: and total execution time:11850
+Simulating :AMD Opteron: with cache size:1: and issue width:8: results in CPI:4.300: and total execution time:15480
+Simulating :Intel Core i7: with cache size:1: and issue width:8: results in CPI:3.700: and total execution time:11100
+Simulating :AMD Opteron: with cache size:1: and issue width:16: results in CPI:3.800: and total execution time:13680
+Simulating :Intel Core i7: with cache size:1: and issue width:16: results in CPI:3.200: and total execution time:9600
+Simulating :AMD Opteron: with cache size:1: and issue width:1: results in CPI:4.738: and total execution time:17055
+Simulating :Intel Core i7: with cache size:1: and issue width:1: results in CPI:4.138: and total execution time:12412
+Simulating :AMD Opteron: with cache size:1: and issue width:2: results in CPI:4.675: and total execution time:16830
+Simulating :Intel Core i7: with cache size:1: and issue width:2: results in CPI:4.075: and total execution time:12225
+Simulating :AMD Opteron: with cache size:1: and issue width:4: results in CPI:4.550: and total execution time:16380
+Simulating :Intel Core i7: with cache size:1: and issue width:4: results in CPI:3.950: and total execution time:11850
+Simulating :AMD Opteron: with cache size:1: and issue width:8: results in CPI:4.300: and total execution time:15480
+Simulating :Intel Core i7: with cache size:1: and issue width:8: results in CPI:3.700: and total execution time:11100
+Simulating :AMD Opteron: with cache size:1: and issue width:16: results in CPI:3.800: and total execution time:13680
+Simulating :Intel Core i7: with cache size:1: and issue width:16: results in CPI:3.200: and total execution time:9600
+Simulating :AMD Opteron: with cache size:1: and issue width:1: results in CPI:4.738: and total execution time:17055
+Simulating :Intel Core i7: with cache size:1: and issue width:1: results in CPI:4.138: and total execution time:12412
+Simulating :AMD Opteron: with cache size:1: and issue width:2: results in CPI:4.675: and total execution time:16830
+Simulating :Intel Core i7: with cache size:1: and issue width:2: results in CPI:4.075: and total execution time:12225
+Simulating :AMD Opteron: with cache size:1: and issue width:4: results in CPI:4.550: and total execution time:16380
+Simulating :Intel Core i7: with cache size:1: and issue width:4: results in CPI:3.950: and total execution time:11850
+Simulating :AMD Opteron: with cache size:1: and issue width:8: results in CPI:4.300: and total execution time:15480
+Simulating :Intel Core i7: with cache size:1: and issue width:8: results in CPI:3.700: and total execution time:11100
+Simulating :AMD Opteron: with cache size:1: and issue width:16: results in CPI:3.800: and total execution time:13680
+Simulating :Intel Core i7: with cache size:1: and issue width:16: results in CPI:3.200: and total execution time:9600
+Simulating :AMD Opteron: with cache size:1: and issue width:1: results in CPI:4.738: and total execution time:17055
+Simulating :Intel Core i7: with cache size:1: and issue width:1: results in CPI:4.138: and total execution time:12412
+Simulating :AMD Opteron: with cache size:1: and issue width:2: results in CPI:4.675: and total execution time:16830
+Simulating :Intel Core i7: with cache size:1: and issue width:2: results in CPI:4.075: and total execution time:12225
+Simulating :AMD Opteron: with cache size:1: and issue width:4: results in CPI:4.550: and total execution time:16380
+Simulating :Intel Core i7: with cache size:1: and issue width:4: results in CPI:3.950: and total execution time:11850
+Simulating :AMD Opteron: with cache size:1: and issue width:8: results in CPI:4.300: and total execution time:15480
+Simulating :Intel Core i7: with cache size:1: and issue width:8: results in CPI:3.700: and total execution time:11100
+Simulating :AMD Opteron: with cache size:1: and issue width:16: results in CPI:3.800: and total execution time:13680
+Simulating :Intel Core i7: with cache size:1: and issue width:16: results in CPI:3.200: and total execution time:9600
+Simulating :AMD Opteron: with cache size:1: and issue width:1: results in CPI:4.738: and total execution time:17055
+Simulating :Intel Core i7: with cache size:1: and issue width:1: results in CPI:4.138: and total execution time:12412
+Simulating :AMD Opteron: with cache size:1: and issue width:2: results in CPI:4.675: and total execution time:16830
+Simulating :Intel Core i7: with cache size:1: and issue width:2: results in CPI:4.075: and total execution time:12225
+Simulating :AMD Opteron: with cache size:1: and issue width:4: results in CPI:4.550: and total execution time:16380
+Simulating :Intel Core i7: with cache size:1: and issue width:4: results in CPI:3.950: and total execution time:11850
+Simulating :AMD Opteron: with cache size:1: and issue width:8: results in CPI:4.300: and total execution time:15480
+Simulating :Intel Core i7: with cache size:1: and issue width:8: results in CPI:3.700: and total execution time:11100
+Simulating :AMD Opteron: with cache size:1: and issue width:16: results in CPI:3.800: and total execution time:13680
+Simulating :Intel Core i7: with cache size:1: and issue width:16: results in CPI:3.200: and total execution time:9600
+Simulating :AMD Opteron: with cache size:1: and issue width:1: results in CPI:4.738: and total execution time:17055
+Simulating :Intel Core i7: with cache size:1: and issue width:1: results in CPI:4.138: and total execution time:12412
+Simulating :AMD Opteron: with cache size:1: and issue width:2: results in CPI:4.675: and total execution time:16830
+Simulating :Intel Core i7: with cache size:1: and issue width:2: results in CPI:4.075: and total execution time:12225
+Simulating :AMD Opteron: with cache size:1: and issue width:4: results in CPI:4.550: and total execution time:16380
+Simulating :Intel Core i7: with cache size:1: and issue width:4: results in CPI:3.950: and total execution time:11850
+Simulating :AMD Opteron: with cache size:1: and issue width:8: results in CPI:4.300: and total execution time:15480
+Simulating :Intel Core i7: with cache size:1: and issue width:8: results in CPI:3.700: and total execution time:11100
+Simulating :AMD Opteron: with cache size:1: and issue width:16: results in CPI:3.800: and total execution time:13680
+Simulating :Intel Core i7: with cache size:1: and issue width:16: results in CPI:3.200: and total execution time:9600
+Simulating :AMD Opteron: with cache size:1: and issue width:1: results in CPI:4.738: and total execution time:17055
+Simulating :Intel Core i7: with cache size:1: and issue width:1: results in CPI:4.138: and total execution time:12412
+Simulating :AMD Opteron: with cache size:1: and issue width:2: results in CPI:4.675: and total execution time:16830
+Simulating :Intel Core i7: with cache size:1: and issue width:2: results in CPI:4.075: and total execution time:12225
+Simulating :AMD Opteron: with cache size:1: and issue width:4: results in CPI:4.550: and total execution time:16380
+Simulating :Intel Core i7: with cache size:1: and issue width:4: results in CPI:3.950: and total execution time:11850
+Simulating :AMD Opteron: with cache size:1: and issue width:8: results in CPI:4.300: and total execution time:15480
+Simulating :Intel Core i7: with cache size:1: and issue width:8: results in CPI:3.700: and total execution time:11100
+Simulating :AMD Opteron: with cache size:1: and issue width:16: results in CPI:3.800: and total execution time:13680
+Simulating :Intel Core i7: with cache size:1: and issue width:16: results in CPI:3.200: and total execution time:9600
