@@ -3,11 +3,15 @@
 import re
 import sys
 import os
+
+
+
 InFile = open("Part2.in")
 expr = r"(?P<user>[\w.-]+)@(?P<domain>[\w.-]+) +(?P<score>[0-9][0-9]?[.[0-9]+]?)"
 argo = "cholly@purdue.edu 90.02"
 
 for line in InFile:
+	
 	m = re.search(expr, line)
 	if m:
 		Cato = m.groupdict()
